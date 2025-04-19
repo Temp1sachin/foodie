@@ -1,0 +1,207 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Vegan Buddha Bowl",
+        "image": "https://example.com/images/buddha_bowl_card.jpg",
+        "large_image": "https://example.com/images/buddha_bowl_large.jpg",
+        "prep_time": "20 mins",
+        "difficulty": "Easy",
+        "tags": ["vegan", "quick meals"],
+        "ingredients": [
+          "1 cup quinoa",
+          "1/2 cup chickpeas",
+          "1 avocado, sliced",
+          "1/2 cup cherry tomatoes",
+          "Handful of spinach",
+          "2 tbsp tahini sauce"
+        ],
+        "instructions": [
+          "Rinse the quinoa under cold water, then cook in a saucepan with 2 cups of water. Bring to a boil, reduce heat, cover, and simmer for 15 minutes until fluffy.",
+          "Meanwhile, heat a skillet over medium heat, add a drizzle of olive oil, and warm the chickpeas with a pinch of salt and pepper until slightly crispy around the edges.",
+          "Slice the avocado and halve the cherry tomatoes. Wash and dry the spinach leaves thoroughly.",
+          "In a large bowl, layer the cooked quinoa, seasoned chickpeas, avocado slices, cherry tomatoes, and spinach in neat sections to create a colorful bowl.",
+          "Drizzle the tahini sauce evenly over all components, then gently toss before serving for an even flavor distribution, or leave artfully arranged for presentation."
+        ],
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "title": "Chocolate Lava Cake",
+        "image": "https://example.com/images/lava_cake_card.jpg",
+        "large_image": "https://example.com/images/lava_cake_large.jpg",
+        "prep_time": "30 mins",
+        "difficulty": "Medium",
+        "tags": ["dessert"],
+        "ingredients": [
+          "4 oz dark chocolate",
+          "1/2 cup butter",
+          "1 cup powdered sugar",
+          "2 eggs",
+          "2 egg yolks",
+          "1/2 cup flour"
+        ],
+        "instructions": [
+          "Preheat your oven to 425°F (220°C). Generously butter two 6-ounce ramekins and dust with cocoa powder to prevent sticking.",
+          "In a heatproof bowl set over simmering water (double boiler), melt the dark chocolate and butter together, stirring until smooth.",
+          "Remove from heat, whisk in the powdered sugar until fully incorporated, then add in the eggs and egg yolks, one at a time.",
+          "Gently fold in the flour just until the batter is uniform without overmixing. Divide the batter evenly between the prepared ramekins.",
+          "Bake on the center rack for 12–14 minutes. The edges should be firm while the centers remain gooey. Let cakes rest for 1 minute before inverting onto plates."
+        ],
+        "rating": 4.8
+      },
+      {
+        "id": 3,
+        "title": "Spaghetti Carbonara",
+        "image": "https://example.com/images/carbonara_card.jpg",
+        "large_image": "https://example.com/images/carbonara_large.jpg",
+        "prep_time": "25 mins",
+        "difficulty": "Medium",
+        "tags": ["Italian", "quick meals"],
+        "ingredients": [
+          "200g spaghetti",
+          "100g pancetta, diced",
+          "2 large eggs",
+          "1/2 cup grated Parmesan",
+          "2 cloves garlic, minced",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Bring a large pot of salted water to a rolling boil. Add spaghetti and cook until just al dente, about 8–10 minutes.",
+          "While pasta cooks, heat a skillet over medium heat and sauté minced garlic until fragrant. Add diced pancetta and cook until crisp and golden.",
+          "In a mixing bowl, whisk together eggs, Parmesan, and a generous crack of black pepper until creamy.",
+          "Reserve 1/4 cup of pasta water, drain spaghetti, and immediately add to the skillet with pancetta. Remove from heat.",
+          "Quickly pour egg mixture over the pasta, tossing constantly to create a silky sauce. If needed, add reserved pasta water to reach desired creaminess."
+        ],
+        "rating": 4.6
+      },
+      {
+        "id": 4,
+        "title": "Masala Dosa",
+        "image": "https://example.com/images/masala_dosa_card.jpg",
+        "large_image": "https://example.com/images/masala_dosa_large.jpg",
+        "prep_time": "45 mins",
+        "difficulty": "Hard",
+        "tags": ["Indian", "vegan"],
+        "ingredients": [
+          "2 cups fermented dosa batter",
+          "3 potatoes, boiled and mashed",
+          "1 onion, thinly sliced",
+          "2 green chilies, chopped",
+          "1 tsp mustard seeds",
+          "Curry leaves",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Heat a teaspoon of oil in a pan over medium heat. Add mustard seeds and curry leaves; cook until they start to crackle.",
+          "Add sliced onions and chopped green chilies. Sauté until onions turn translucent and fragrant.",
+          "Stir in the mashed potatoes, season with salt, and cook for 2–3 minutes, mashing any large chunks and blending flavors.",
+          "Heat a non-stick griddle over high heat. Pour a ladle of dosa batter and spread it in a thin circle until the edges lift slightly.",
+          "Place a portion of the potato filling in the center, fold the dosa over to encase the filling, and cook for another minute before serving hot."
+        ],
+        "rating": 4.7
+      },
+      {
+        "id": 5,
+        "title": "Avocado Toast",
+        "image": "https://example.com/images/avocado_toast_card.jpg",
+        "large_image": "https://example.com/images/avocado_toast_large.jpg",
+        "prep_time": "10 mins",
+        "difficulty": "Easy",
+        "tags": ["vegan", "quick meals"],
+        "ingredients": [
+          "2 slices whole grain bread",
+          "1 ripe avocado",
+          "1/2 lemon, juiced",
+          "Chili flakes to taste",
+          "Salt and pepper to taste"
+        ],
+        "instructions": [
+          "Toast the bread slices until golden brown and crispy. This adds texture and prevents sogginess.",
+          "Cut the avocado in half, remove the pit, and scoop the flesh into a bowl. Mash with a fork until creamy but still slightly chunky.",
+          "Add lemon juice, salt, and pepper to the avocado mash. Taste and adjust seasoning as needed.",
+          "Spread the seasoned avocado evenly onto the warm toast. Sprinkle chili flakes on top for a subtle kick.",
+          "Serve immediately as a nutritious snack or light breakfast with a squeeze of extra lemon if desired."
+        ],
+        "rating": 4.2
+      },
+      {
+        "id": 6,
+        "title": "Tiramisu",
+        "image": "https://example.com/images/tiramisu_card.jpg",
+        "large_image": "https://example.com/images/tiramisu_large.jpg",
+        "prep_time": "35 mins + chilling",
+        "difficulty": "Medium",
+        "tags": ["dessert", "Italian"],
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup sugar",
+          "1 cup mascarpone cheese",
+          "1 1/2 cups cooled espresso",
+          "24 ladyfingers",
+          "Cocoa powder for dusting"
+        ],
+        "instructions": [
+          "In a heatproof bowl set over simmering water, whisk egg yolks and sugar until pale, thick, and ribbon-like (about 5 minutes). Remove from heat.",
+          "Allow the mixture to cool slightly, then gently fold in the mascarpone cheese until smooth and lump-free.",
+          "Quickly dip each ladyfinger into the cooled espresso—do not soak—to prevent sogginess, and layer them in a shallow dish.",
+          "Spread half of the mascarpone cream over the soaked ladyfingers, then repeat with another layer of dipped ladyfingers and the remaining cream.",
+          "Cover and chill in the refrigerator for at least 4 hours (or overnight) to let flavors meld. Dust generously with cocoa powder before serving."
+        ],
+        "rating": 4.9
+      },
+      {
+        "id": 7,
+        "title": "Chickpea Curry",
+        "image": "https://example.com/images/chickpea_curry_card.jpg",
+        "large_image": "https://example.com/images/chickpea_curry_large.jpg",
+        "prep_time": "40 mins",
+        "difficulty": "Medium",
+        "tags": ["Indian", "vegan", "quick meals"],
+        "ingredients": [
+          "2 cups cooked chickpeas",
+          "1 onion, finely chopped",
+          "2 tomatoes, pureed",
+          "2 cloves garlic, minced",
+          "1 tbsp curry powder",
+          "1 cup coconut milk",
+          "Salt to taste"
+        ],
+        "instructions": [
+          "Heat oil in a pan over medium heat. Add chopped onion and garlic, sauté until golden brown.",
+          "Stir in curry powder and cook for 30 seconds to bloom the spices. Pour in the tomato puree and simmer for 5 minutes.",
+          "Add cooked chickpeas, stir to coat in the sauce, then pour in the coconut milk. Bring to a gentle simmer.",
+          "Cook for 10–15 minutes, stirring occasionally, until the curry thickens and flavors deepen. Season with salt.",
+          "Garnish with fresh cilantro and serve hot alongside steamed rice or flatbread."
+        ],
+        "rating": 4.4
+      },
+      {
+        "id": 8,
+        "title": "Buttermilk Pancakes",
+        "image": "https://example.com/images/pancakes_card.jpg",
+        "large_image": "https://example.com/images/pancakes_large.jpg",
+        "prep_time": "25 mins",
+        "difficulty": "Easy",
+        "tags": ["quick meals", "dessert"],
+        "ingredients": [
+          "1 1/2 cups all-purpose flour",
+          "1 tbsp sugar",
+          "1 tsp baking powder",
+          "1/2 tsp baking soda",
+          "1 cup buttermilk",
+          "1 egg",
+          "2 tbsp melted butter"
+        ],
+        "instructions": [
+          "In a large bowl, whisk together the flour, sugar, baking powder, and baking soda until evenly combined.",
+          "In a separate bowl, beat the egg lightly, then whisk in the buttermilk and melted butter.",
+          "Pour the wet ingredients into the dry ingredients and stir gently until just combined—lumps are okay.",
+          "Heat a non-stick griddle or skillet over medium heat. Pour 1/4 cup of batter per pancake onto the griddle.",
+          "Cook until bubbles form on the surface, then flip and cook for another 1–2 minutes until golden brown."
+        ],
+        "rating": 4.3
+      }
+    ]
+  }
+  
