@@ -74,7 +74,7 @@ export default function HomeComponent() {
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
-              <Link href="/recipes">Get Started - It's Free</Link>
+              <Link href="/home">Get Started - It's Free</Link>
             </Button>
           </motion.div>
         </motion.div>

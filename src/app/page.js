@@ -5,7 +5,7 @@ import HomeComponent from "./home";
 export default function Home() {
   return (
     <div>
-      <FoodCard />
+      <HomeComponent />
     </div>
   );
 }
