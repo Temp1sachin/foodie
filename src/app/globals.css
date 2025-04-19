@@ -1,6 +1,7 @@
 @import "tailwindcss";
 
 
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -41,67 +42,6 @@
   --radius-md: calc(var(--radius) - 2px);
   --radius-lg: var(--radius);
   --radius-xl: calc(var(--radius) + 4px);
-}
-
-/* Global Reset */
-body {
-  margin: 0;
-  padding: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f9f9f9;
-}
-
-/* Header layout with logo left and nav center */
-.logo-header {
-  padding: 1rem 2rem;
-  background-color: #fff;
-  border-bottom: 1px solid #e0e0e0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.03);
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  position: relative;
-}
-
-/* Logo on the left */
-.logo {
-  font-size: 1.8rem;
-  font-weight: bold;
-  color: #ff6347;
-  flex: 0 0 auto;
-}
-
-/* Center the navbar absolutely */
-.navbar {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.navbar ul {
-  list-style: none;
-  padding: 0;
-  display: flex;
-  gap: 2rem;
-  margin: 0;
-}
-
-.navbar a {
-  text-decoration: none;
-  padding: 0.6rem 1.2rem;
-  border-radius: 25px;
-  background-color: #fff5f0;
-  color: #ff6347;
-  font-weight: 500;
-  transition: all 0.3s ease;
-  border: 1px solid transparent;
-}
-
-.navbar a:hover {
-  background-color: #ff6347;
-  color: white;
-  border: 1px solid #ff6347;
-  transform: scale(1.05);
 }
 
 :root {
